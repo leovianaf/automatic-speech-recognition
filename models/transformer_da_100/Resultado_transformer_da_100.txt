@@ -1,0 +1,17 @@
+WER: 99.42%
+
+Exemplos de previsões:
+Real: i don't mind i'm glad you're out of it
+Previsto: 
+
+Real: top running among the grass or in the wood would pass unperceived the engineer went to the gate of the corral and opened it
+Previsto: e  e
+
+Real: there were the poor to be helped the hungry to be fed the naked to be clothed she would gather the orphan children at her knee to teach them the truths of their faith when they were very poor
+Previsto: e ae e    a e    e  o
+
+Real: we had all grown so accustomed to advertising signs she said that we failed to notice how thick they were becoming or how bold and overpowering from a few scattered announcements on fence boards
+Previsto: ae e    e e  e  oe
+
+Real: the latter's genial nature and dressy appearance pleased him he knew that drouet was only a travelling salesman and not one of many years at that but the firm of bartlett caryoe and company
+Previsto: e  e ae e     a e
